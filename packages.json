@@ -1,28 +1,28 @@
 {
-"packages-available": [
-{
-"available": "True",
-"days": 5,
-"local": "Chile",
-"price-per-person": 3000
-},
-{
-"available": "False",
-"days": 6,
-"local": "Argentina",
-"price-per-person": 1000
-},
-{
-"available": "True",
-"days": 4,
-"location": "Bolivia",
-"price-per-person": 2500
-},
-{
-"available": "True",
-"days": 10,
-"location": "Italy",
-"price-per-person": 3000
-}
-]
+   "packages-available":[
+      {
+         "available":"True",
+         "days":5,
+         "local":"Chile",
+         "price-per-person":3000
+      },
+      {
+         "available":"False",
+         "days":6,
+         "local":"Argentina",
+         "price-per-person":1000
+      },
+      {
+         "available":"True",
+         "days":4,
+         "location":"Bolivia",
+         "price-per-person":2500
+      },
+      {
+         "available":"True",
+         "days":10,
+         "location":"Italy",
+         "price-per-person":3000
+      }
+   ]
 }
